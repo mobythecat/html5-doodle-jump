@@ -515,7 +515,7 @@ function showGoMenu() {
   menu.style.visibility = "visible";
 
   var scoreText = document.getElementById("go_score");
-  scoreText.innerHTML = "You scored " + score + " points!";
+  scoreText.innerHTML = "hi " + score + " points!";
 }
 
 //Hides the game over menu
